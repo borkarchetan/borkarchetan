@@ -32,7 +32,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </ul>
 
 - 📫 How to reach me **battleshipcomputer@gmail.com**
-- 👨‍💻 Checkout my Portfolio [Chetan Borkar](https://pallu.github.io/)
+- 👨‍💻 <h5 href="https://pallu.github.io/">Checkout my Portfolio</h5>
 - 💻 Checkout my Resume [Chetan_Borkar_Resume](https://drive.com/file/d/1w6r06jwvtDAXEjOYcfAWToIklpeBH0bN/view)
 
 <h3 align="left">Connect with me:</h3>
@@ -60,7 +60,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 <br>
-<h2 align="center">📊 Leetcode Statistics<h2>
+<!-- <h2 align="center">📊 Leetcode Statistics<h2>
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Pallu27899?ext=activity" />
 <br />
@@ -72,7 +72,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pallu27899&theme=react" alt="pallavi bobale" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pallu27899&show_icons=true&theme=react" height="255px" width="47%"/>
 <div>
-  </br>
+  </br> -->
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallu27899&theme=react&langs_count=8" alt="pallavi bobale" height="260px" width="25%" />
