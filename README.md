@@ -1,7 +1,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Pallavi+Bobale!;Java+Back-end+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Chetan+Borkar!;Java+Back-end+Developer...;" style="width: 100%;">
 
 <img src="Banner.gif">
 
@@ -31,15 +31,15 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <li>Java Back-end Development</li>
 </ul>
 
-- 📫 How to reach me **bobalepallavi@gmail.com**
-- 👨‍💻 Checkout my Portfolio [Pallavi Bobale](https://pallu27899.github.io/)
-- 💻 Checkout my Resume [Pallavi_Bobale_Resume](https://drive.google.com/file/d/1w6r06jwvtDAXEjOYcfAWToIklpeBH0bN/view)
+- 📫 How to reach me **battleshipcomputer@gmail.com**
+- 👨‍💻 Checkout my Portfolio [Chetan Borkar](https://pallu.github.io/)
+- 💻 Checkout my Resume [Chetan_Borkar_Resume](https://drive.com/file/d/1w6r06jwvtDAXEjOYcfAWToIklpeBH0bN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pallavi-bobale-80959a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-bobale-80959a1b7" height="30" width="40" /></a>
-<a href="https://instagram.com/pallu_bobale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallu_bobale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pallu27899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pallu27899" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-bobale-80959a1b7" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/0_akphotography_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallu_bobale" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/battleshipcompu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pallu27899" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bobalepallavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bobalepallavi" height="30" width="40" /></a>
 </p>
 
