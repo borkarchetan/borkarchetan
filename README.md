@@ -14,7 +14,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="500"  src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 
 
 
@@ -33,7 +33,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 📫 How to reach me **battleshipcomputer@gmail.com**
 - 👨‍💻 <h5 href="https://pallu.github.io/">Checkout my Portfolio</h5>
-- 💻 Checkout my Resume [Chetan_Borkar_Resume](https://drive.com/file/d/1w6r06jwvtDAXEjOYcfAWToIklpeBH0bN/view)
+- 💻 Checkout my Resume [Resume](https://drive.com/file/d/1w6r06jwvtDAXEjOYcfAWToIklpeBH0bN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -75,8 +75,8 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   </br> -->
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallu27899&theme=react&langs_count=8" alt="pallavi bobale" height="260px" width="25%" />
-  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borkarchetan&theme=react&langs_count=8" alt="chetan borkar" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> -->
 <div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
