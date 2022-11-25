@@ -20,7 +20,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
  💬 About me ...<br>
 <ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
+  <li>🌱🌱 I’m currently learning Java,SQL</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
 <!--   <li>📰 My First Web Page_____________</li> -->
 </ul>
