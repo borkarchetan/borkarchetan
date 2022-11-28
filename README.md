@@ -14,10 +14,14 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/borkarchetan.github.io]([https://github.com/borkarchetan/borkarchetan.github.io](https://borkarchetan.github.io/))
+- 
+- <h3 align="left">👨‍💻 All of my projects are available at : https://borkarchetan.github.io/</h3>
 
-<h3 align="left">Connect with me:computerbattleship@gmail.com</h3>
+<h3 align="left"> <a href="https://www.instagram.com/0_akphotography_0/" target="_blank" rel="noreferrer"> <img src="https://180dc.org/wp-content/uploads/2014/04/instagram-Logo-PNG-Transparent-Background-download.png" alt="c" height="20"/> : Instagram : </h3>
+
+  <h3 align="left"> <a href="https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="_blank" rel="noreferrer"> <img src="https://soc.kuleuven.be/immrc/images/linkedin-logo-initials.png/image" alt="c"  height="20"/> : LinkedIn : </h3>
+
+
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="blank"><img
       align="center"
