@@ -12,7 +12,7 @@
 <h3 align="center" dir="auto"><a id="user-content-a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team" class="anchor" aria-hidden="true" href="#a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/borkarchetan/readme/master/assets/lines/colored.png">
 
 <img align="right" alt="Coding" width="500"  src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 
@@ -37,16 +37,16 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-bobale-80959a1b7" height="30" width="40" /></a> -->
+ <a href="https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-bobale-80959a1b7" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/0_akphotography_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallu_bobale" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/battleshipcompu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pallu27899" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/battleshipcompu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="borkarchetan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bobalepallavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bobalepallavi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p float="left" margin:"2%;" > 
     <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
-    <a href="https://spring.io/" rel="nofollow" > <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp; 
+    <!-- <a href="https://spring.io/" rel="nofollow" > <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>   &nbsp;   &nbsp;
     <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
     <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
@@ -56,30 +56,30 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
       <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
     </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/borkarchetan/readme/master/assets/lines/colored.png">
 
 
 <br>
-<!-- <h2 align="center">📊 Leetcode Statistics<h2>
+ <h2 align="center">📊 Leetcode Statistics<h2>
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Pallu27899?ext=activity" />
+<img src="https://leetcard.jacoblin.cool/borkarchetan?ext=activity" />
 <br />
 
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/borkarchetan/readme/master/assets/lines/colored.png">
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pallu27899&theme=react" alt="pallavi bobale" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pallu27899&show_icons=true&theme=react" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=borkarchetan&theme=react" alt="pallavi bobale" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=borkarchetan&show_icons=true&theme=react" height="255px" width="47%"/>
 <div>
-  </br> -->
+  </br> 
   
 <div>
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borkarchetan&theme=react&langs_count=8" alt="chetan borkar" height="260px" width="25%" />
-  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borkarchetan&theme=react&langs_count=8" alt="chetan borkar" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=borkarchetan&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> -->
 <div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/borkarchetan/readme/master/assets/lines/colored.png">
 
 
 
