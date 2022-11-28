@@ -3,7 +3,7 @@
 
 <img width="100%"
   src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79912;size=20&amp;lines=Hello,+I+am+Chetan+Borkar+;Java+Back-end+Developer...;">
-<h3 align="center">Aspiring Java Backend Development @Masai School. Post graduation in Computer Science. Capable of
+<h3 align="center">Aspiring Java Backend Development @Masai School.  Capable of
   writing production ready code.</h3>
 <img align="right" width="400px" alt="Coder"
   src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif" /></p>
