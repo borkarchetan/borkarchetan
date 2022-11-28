@@ -21,12 +21,14 @@
 
   <h3 align="left"> <a href="https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="_blank" rel="noreferrer"> <img src="https://soc.kuleuven.be/immrc/images/linkedin-logo-initials.png/image" alt="c"  height="20"/> : LinkedIn : </h3>
 
+    
 
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="blank"><img
+ <p align="left">
+<!--   <a href="https://linkedin.com/in/https://www.linkedin.com/in/chetan-borkar-a32b9122b/" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/chetan-borkar-a32b9122b/" height="30" width="40" /></a>
+   -->
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/borkarchetan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="https://www.hackerrank.com/battleshipcompu1" height="30" width="40" /></a>
