@@ -14,8 +14,13 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 
-- <h3 align="left">👨‍💻 All of my projects are available at : https://borkarchetan.github.io/</h3>
+- 👯 I’m looking to work on **New Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/borkarchetan/borkarchetan.github.io](https://borkarchetan.github.io)
+
+- 📫 How to reach me **battleshipcomputer@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gFRAlQSvkMkSVAMgE46maXsgsh1SjKkx/view?usp=sharing](https://drive.google.com/file/d/1gFRAlQSvkMkSVAMgE46maXsgsh1SjKkx/view?usp=sharing)
 
 <h3 align="left"> <a href="https://www.instagram.com/0_akphotography_0/" target="_blank" rel="noreferrer"> <img src="https://180dc.org/wp-content/uploads/2014/04/instagram-Logo-PNG-Transparent-Background-download.png" alt="c" height="20"/> : Instagram : </h3>
 
