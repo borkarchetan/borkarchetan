@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **battleshipcomputer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gFRAlQSvkMkSVAMgE46maXsgsh1SjKkx/view?usp=sharing](https://drive.google.com/file/d/1gFRAlQSvkMkSVAMgE46maXsgsh1SjKkx/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Dpetr_BK8IQSOJ-zLgjnqid8-1EXxo7d/view)
 
 <h3 align="left"> <a href="https://www.instagram.com/0_akphotography_0/" target="_blank" rel="noreferrer"> <img src="https://180dc.org/wp-content/uploads/2014/04/instagram-Logo-PNG-Transparent-Background-download.png" alt="c" height="20"/> : Instagram : </h3>
 
